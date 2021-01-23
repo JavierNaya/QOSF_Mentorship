@@ -10,5 +10,5 @@ This tutorial can also serve as a generic guide for ZNE of VQE algorithms, requi
 4-dimensional hamiltonians.  	
 
 
-Qiskit instalation guide: https://qiskit.org/documentation/install.html
+Qiskit instalation guide: https://qiskit.org/documentation/install.html  \\
 Mitiq instalation guide: https://mitiq.readthedocs.io/en/latest/README.html#installation
